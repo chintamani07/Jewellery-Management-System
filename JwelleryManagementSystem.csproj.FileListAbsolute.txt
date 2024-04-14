@@ -1,0 +1,15 @@
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\bin\Debug\JwelleryManagementSystem.exe
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\bin\Debug\JwelleryManagementSystem.pdb
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.Form1.resources
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.Properties.Resources.resources
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.csproj.GenerateResource.Cache
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.exe
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.pdb
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.Home.resources
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\bin\Debug\JewelleryDatabase1.mdf
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\bin\Debug\JewelleryDatabase1_log.ldf
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\bin\Debug\JwelleryManagementSystem.exe.config
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.AddProduct.resources
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.csprojResolveAssemblyReference.cache
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.customerdetail.resources
+G:\SofsytProjectAsp.Net\JwelleryManagementSystem\JwelleryManagementSystem\obj\x86\Debug\JwelleryManagementSystem.AddOrder.resources
